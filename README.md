@@ -20,10 +20,6 @@ I believe immersive technologies can go beyond entertainment and be used to crea
 
 ## 🚀 Featured Projects
 
-### 🔗 VR Blockchain Lab
-
-An immersive educational VR experience designed to help users understand complex blockchain concepts through interactive visualization and simulation.
-
 ### ☀️ VR Solar System Explorer
 
 An interactive VR experience that allows users to explore and learn about the Solar System in an immersive environment.
