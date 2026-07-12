@@ -32,6 +32,10 @@ A VR-based environmental awareness game where players collect and sort waste int
 
 An AI-powered health and lifestyle assessment application that analyzes user data, calculates health metrics, and provides data-driven insights.
 
+### ♻️ VR Blockchain Lab
+
+A VR-based educational lab teaching fundamentals of blockchain and centralized world in blockchain also what are smart contracts through emmersion.
+
 ## 🛠️ Tech Stack
 
 ### XR & Game Development
